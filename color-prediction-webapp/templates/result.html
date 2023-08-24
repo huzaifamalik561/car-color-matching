@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+    <title>Color Prediction Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Predicted Color:</h1>
+        <div class="result">{{ color }}</div>
+        <a href="/">Predict Another Image</a>
+    </div>
+</body>
+</html>
