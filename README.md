@@ -15,8 +15,6 @@ To run the Flask Color Prediction Web App locally, follow these steps:
 
 Clone the repository:
 
-bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/huzaifamalik561/car-color-matching.git)
 Install the required Python packages using pip:
 
 bash
